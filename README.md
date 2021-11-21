@@ -46,7 +46,7 @@ npm i && npm run start
 ```
 
 ### API Documentation:
-While the API is up and running- naviagte to `localhost:5050` in your browser for documentation.
+While the API is up and running, navigate to `localhost:5050` in your browser for documentation.
 
 ## **Technologies Used**
 
