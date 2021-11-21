@@ -1,12 +1,6 @@
 .greeting {
   color: blue;
 }
-.jumbotron {
-  background-color: rgb(76, 94, 111);
-  border-radius: 0.5rem;
-  color: lightgray;
-  width: 200%;
-}
 
 .static {
   position: fixed;
