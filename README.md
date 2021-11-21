@@ -24,14 +24,14 @@
 }
 ```
 
-1. Create a schema in MySQL Workbench- the name of the database ***must*** match the database name from your `appsettings.json`.
-2. From within the `AnimalAPI` directory; build the database with:
+4. Create a schema in MySQL Workbench- the name of the database ***must*** match the database name from your `appsettings.json`.
+5. From within the `AnimalAPI` directory; build the database with:
 
 ```bash
 dotnet ef database update
 ```
 
-1. From the uppermost directory of your project run:
+6. From the uppermost directory of your project run:
 
 ```bash
 cd AnimalAPI && dotnet run
