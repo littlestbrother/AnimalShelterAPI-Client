@@ -45,6 +45,9 @@ Navigate to the `AnimalClient` directory and from within run:
 npm i && npm run start
 ```
 
+### API Documentation:
+While the API is up and running- naviagte to `localhost:5050` for documentation.
+
 ## **Technologies Used**
 
 - C#, MVC, [Asp.Net](http://asp.net/) Core, EF Core, MySQL.
